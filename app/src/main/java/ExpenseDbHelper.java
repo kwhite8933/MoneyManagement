@@ -9,7 +9,7 @@ public class ExpenseDbHelper extends SQLiteOpenHelper {
 
     public static String TAG = ExpenseDbHelper.class.getSimpleName();
     private static final int DB_VERSION = 6;
-    public static final String DB_NAME = "MoneyManagement";
+    public static final String DB_NAME = "MoneyManagement"; // Name of the database
 
     //////////////////////////////////////// Expenses Class ////////////////////////////////////////
     public static final String EXPENSE_TABLE_NAME = "expensesDb";
