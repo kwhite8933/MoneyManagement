@@ -4,5 +4,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="add_expense">Add An Expense</string>
+    <string name="btn_add_expense">Add An Expense</string>
     <string name="search">Search</string>
+    <string name="title_activity_add_an_expense">AddAnExpense</string>
 </resources>
